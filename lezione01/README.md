@@ -7,4 +7,4 @@ In questa lezione vedremo cosa sono i linguaggi di programmazione e i comandi di
 https://www.wikihow.it/Installare-Ubuntu-su-VirtualBox
 
 ### Setup iniziale
-`cd && wget -q -O - https://gist.githubusercontent.com/CrazyDevTutorials/2906888e7579d0ec408cf6bbcf957c33/raw/cc696e46a494a6b6cff58a226e5b5a77c04904b3/setup_c.sh | bash`
+`cd && wget -q -O - https://gist.githubusercontent.com/CrazyDevTutorials/2906888e7579d0ec408cf6bbcf957c33/raw/559ab7039b7850c4e9ec412e31d343e9317064c0/setup_c.sh | bash`

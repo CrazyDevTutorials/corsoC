@@ -1,5 +1,5 @@
 # Lezione 1
-In questa lezione vedremo cosa sono i linguaggi di programmazione e i comandi di navigazione del terminale linux. Utilizzeremo e configureremo la distribuzione Ubuntu, installabile su macchina virtuale
+In questa lezione configureremo la distribuzione Ubuntu e vedremo come creare un nuovo progetto su Kdevelop
 
 ### Link installazione Ubuntu su VB
 https://www.wikihow.it/Installare-Ubuntu-su-VirtualBox
